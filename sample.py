@@ -2,7 +2,6 @@
 
 from time import sleep
 
-
 print("This is a sample Python project")
 
 question1 = "Type a message and I will repeat it back to you! (Type 'quit' to end the program):"
